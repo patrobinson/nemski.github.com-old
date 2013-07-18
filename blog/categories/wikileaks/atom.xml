@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Wikileaks | My Octopress Blog]]></title>
+  <link href="http://nemski.github.io/blog/categories/wikileaks/atom.xml" rel="self"/>
+  <link href="http://nemski.github.io/"/>
+  <updated>2013-07-18T17:26:13+10:00</updated>
+  <id>http://nemski.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Soft Power]]></title>
+    <link href="http://nemski.github.io/blog/2013/07/17/soft-power/"/>
+    <updated>2013-07-17T23:15:00+10:00</updated>
+    <id>http://nemski.github.io/blog/2013/07/17/soft-power</id>
+    <content type="html"><![CDATA[<h1 id='soft_power'>Soft Power</h1>
+
+<p>Soft power is defined as the ability to <a href='http://www.independent.co.uk/news/uk/home-news/britain-is-now-most-powerful-nation-on-earth-8326452.html'>&#8220;use attraction and persuasion, rather than coercion or payment, to change behaviour.&#8221;</a>.</p>
+
+<p>Over the past few years several closely and loosely aligned Non-State Actors have exercised soft power to influence the political landscape. These organisations range from the Hacktivists groups like Anonymous and LulzSec to the whistle-blower organisation Wikileaks, which seeks to reveal secret information from whistle-blowers anonymously and protect them from prosecution.</p>
+
+<p>While LulzSec and Anonymous are traditionally associated with Distributed Denial-Of-Service attacks (DDOS), this isn&#8217;t exercising hard power. Because their attacks have no ability to (or have not so far been able to) directly influence the policy of their targets, I would compare them to a &#8220;Sit-in&#8221; protest rather than a Guerilla attack. Because the attack only serves to bring attention to their cause, I would argue it&#8217;s an example of soft power.</p>
+
+<p>Anonymous was able to pull off a raid on Stratfor with <a href='http://wikileaks.org/gifiles/releases.html'>&#8220;The Global Intelligence Files&#8221;</a>, but the exploitation of this raid by leaking the contents of their email archives again displays the use of soft power to achieve their goals.</p>
+
+<h2 id='references'>References</h2>
+
+<ol>
+<li>&#8220;Britain is now most powerful nation on earth&#8221;, Emily Dugan, published 18th November 2012, accessed 16-07-2013</li>
+
+<li>&#8220;The Global Intelligence Files&#8221;, Wikileaks, published 27th February 2012, accessed 16-07-2013</li>
+</ol>]]></content>
+  </entry>
+  
+</feed>
